@@ -1,0 +1,5 @@
+include ':netDynamicObfuscator', 'netDynamicObfuscatorLib', 'netDynamicObfuscatorTest', 'ApkTools', "AndroidXmlCoder"
+
+
+project(':ApkTools').projectDir=new File('./ApkTools/ApkTools')
+project(':AndroidXmlCoder').projectDir=new File('./AndroidXmlCoder/AndroidXmlCoder')

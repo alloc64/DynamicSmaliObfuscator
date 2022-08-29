@@ -1,0 +1,6 @@
+[submodule "ApkTools"]
+	path = ApkTools
+	url = git@github.com:alloc64/ApkTools.git
+[submodule "AndroidXmlCoder"]
+	path = AndroidXmlCoder
+	url = git@github.com:alloc64/AndroidXmlCoder.git
